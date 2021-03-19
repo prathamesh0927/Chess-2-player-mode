@@ -14,7 +14,9 @@ NOTE: This game is intended to play between two player.
       
       
 CHESS GAME
+
 ![image](https://user-images.githubusercontent.com/58648372/111725421-0aecf600-888d-11eb-8d9f-66bd71daeaee.png)
+
 
 😊CHESS Game with stockfish engine comming soon.😊
 
